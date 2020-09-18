@@ -13,5 +13,6 @@ public class ThirdActivity extends Activity {
         super.onCreate(savedInstanceState, persistentState);
         int a1;
         int a3;
+        int a4;
     }
 }
